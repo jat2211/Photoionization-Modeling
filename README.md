@@ -2,7 +2,9 @@
 ## Motivation
 This project is part of a research experience (REU) I undertook in the summer of 2021 at the University of Texas at Austin under the mentorship of Danielle Berg and Karla Z. Arellano-Co’rdova, as well as program coordinator Jogee Shardha. My research was funded by the Department of Defense and the National Science Foundation. 
 ## Introduction
-The COS Legacy Archive Spectroscopic SurveY (CLASSY; PI: Berg) marks the construction of the first high quality, high resolution far-UV spectral database of 45 nearby star-forming galaxies. The CLASSY sample of nearby galaxies spans a broad range of properties that pose a challenge to our understanding of how very high ionization emission lines are produced. My research goal was to use the photoionization modeling code CLOUDY (Ferland et al. 2013) to model each of the 45 CLASSY
+The COS Legacy Archive Spectroscopic SurveY (CLASSY; PI: Berg) marks the construction of the first high quality, high resolution far-UV spectral database of 45 nearby star-forming galaxies. The CLASSY sample of nearby galaxies spans a broad range of properties that pose a challenge to our understanding of how very high ionization emission lines are produced. 
+
+My research goal was to use the photoionization modeling code CLOUDY (Ferland et al. 2013) to model each of the 45 CLASSY
 galaxies individually using Binary Population and Spectral Synthesis (BPASS; Eldridge & Stanway 2016) and the measured nebular conditions (Berg et al. 2021) to constrain the intrinsic ionizing continuum and reproduce the observed emission-line spectra.
 ## Methodology
 There are 3 steps we took: 
